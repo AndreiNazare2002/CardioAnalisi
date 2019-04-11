@@ -120,6 +120,7 @@ namespace CardioAnalisiLibrary
             catch (Exception)
             {
                 Messaggio = "Si è verificato un'errore nella conversione del dato inserito";
+
             }
 
             return Messaggio;
